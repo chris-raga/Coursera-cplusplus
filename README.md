@@ -7,6 +7,6 @@ Powershell 7
 
 Gcc, g++ gdb install  
 
-First program (hello world) written!  
+First program goodbye cruel world written!  
 
 
