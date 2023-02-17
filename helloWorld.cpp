@@ -8,7 +8,8 @@ using namespace std;
 int main()
 // returns an integer, most fxns return an integer
 {
-    cout <<"Goodbye World";  
+    string greeting = "         YOU ARE VERYYYYYYYYYYYYYYYY UGLY ";
+    cout << greeting +"Goodbye World";  
 // cout =  character out << = insertion operator
 
 return 0;
