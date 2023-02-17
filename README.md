@@ -1,4 +1,4 @@
-# Coursera-cplusplus
+# Coursera C++ Introduction Class
 C++ Coursera Work
 Started 02/16/2016
 Powershell 7
