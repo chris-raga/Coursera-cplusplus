@@ -1,0 +1,15 @@
+how to push onto git 
+
+1. cd into folder containing .git folder
+
+2. ls make sure that we're in the right place
+
+3. git status - what updates happened?
+
+4. git add . <-- dot means stage everything within that folder
+
+5. git commit -m "your message here" <-- write what updates occurred 
+
+6. git status - make sure one last time
+
+7. git push - push onto github
