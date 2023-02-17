@@ -9,7 +9,7 @@ using namespace std;
 int main()
 // returns an integer, most fxns return an integer
 {
-    string christian = "\t\t\t\tur U-G-L-Y"
+    string christian = "\t\t\t\tur U-G-L-Y";
     cout <<"Goodbye World";  
 // cout =  character out << = insertion operator
 
